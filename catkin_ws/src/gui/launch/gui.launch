@@ -1,0 +1,3 @@
+<launch>
+	<node pkg = "gui" name="image_thread" type ="pup_sub_test.py"/>
+</launch>
